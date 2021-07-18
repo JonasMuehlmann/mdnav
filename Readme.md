@@ -1,3 +1,5 @@
+# Fork interprets link targets relative to CWD, not current buffer's file path
+
 **NOTE: this project is no longer maintained, as I stopped using it. If you forked the project and continue to develop it, feel free to send me a message to include a link**.
 
 
